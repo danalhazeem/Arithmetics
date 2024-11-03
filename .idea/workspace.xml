@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04dc81e5-0971-40fa-ac55-0e81aca24629" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task.java" afterDir="false" />
-    </list>
+    <list default="true" id="04dc81e5-0971-40fa-ac55-0e81aca24629" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Development" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "danalhazeem"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/danalhazeem/Arithmetics.git",
+    "accountId": "4799fe22-64a4-43d9-9356-b8369f90169c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -24,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.task.executor": "Run",
+    "Application.task.java.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -31,16 +42,15 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="task.java" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="task" />
-      <module name="Arithmetics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task" />
+        <item itemvalue="Application.task.java" />
       </list>
     </recent_temporary>
   </component>
@@ -54,6 +64,17 @@
       <updated>1730620425881</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
